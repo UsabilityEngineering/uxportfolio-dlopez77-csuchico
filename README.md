@@ -6,4 +6,4 @@ Hello! My name's Danny. I've always been interested in design, whether it's grap
 
 ## UX Journal
 
-[This is my first journal entry.](journal-01)
+[This is my first journal entry.](journal-01/)
